@@ -3,7 +3,9 @@
 # Hanwen Tao — Project Portfolio
 
 B.Eng. Computer Science and Technology (expected July 2028), Jilin University · Minor in Finance
+
 Exchange student, National Tsing Hua University, August 2026 – January 2027
+
 📧 taohw0624@mails.jlu.edu.cn
 
 ---
