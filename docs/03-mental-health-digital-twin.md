@@ -9,7 +9,7 @@
 | **Partners** | Virtual Reality Dream Factory Lab, Jilin University × Changchun Sixth Hospital |
 | **Scale** | 13-person backend group; five collaborating parties |
 | **Outcome** | Deployed into the hospital's production environment · **"Excellent"** conclusion rating, JLU Innovation & Entrepreneurship Training Program |
-| **Docs** | [`asdf243/mental-health-digital-twin`](https://github.com/asdf243/mental-health-digital-twin) (private, documentation only) |
+| **Docs** | [`asdf243/mental-health-digital-twin`](https://github.com/asdf243/mental-health-digital-twin) (private — access on request; documentation only) |
 
 ---
 

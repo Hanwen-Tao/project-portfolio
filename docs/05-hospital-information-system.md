@@ -9,7 +9,7 @@
 | **Grade** | A+ |
 | **Context** | Started in the Object-Oriented Programming course (2025), rebuilt as a three-role system for the Fundamentals of Programming course design (2026) |
 | **Scale** | ~6.4k lines of C++ · 13 business structs · 9 data collections · no STL containers |
-| **Code** | [`asdf243/hospital-information-system`](https://github.com/asdf243/hospital-information-system) (private) |
+| **Code** | [`asdf243/hospital-information-system`](https://github.com/asdf243/hospital-information-system) (private — access on request) |
 
 ---
 

@@ -8,7 +8,7 @@
 | **Role** | Independent research project |
 | **Programme** | Open Innovation Experiment Program, Center for Edge Intelligence, Jilin University |
 | **Grade** | A+ |
-| **Code** | [`asdf243/dnn-inference-optimization`](https://github.com/asdf243/dnn-inference-optimization) (private) |
+| **Code** | [`asdf243/dnn-inference-optimization`](https://github.com/asdf243/dnn-inference-optimization) (private — access on request) |
 
 ---
 

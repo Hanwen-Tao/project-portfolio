@@ -9,7 +9,7 @@
 | **Context** | Data Structures & Algorithms course design, Jilin University |
 | **Result** | Bot ranked in the **top 5%** of the course's Botzone ladder |
 | **Scale** | ~3.8k lines of C++ in the shipped build · 800 ms per move |
-| **Code** | [`asdf243/gomoku-swap1-ai`](https://github.com/asdf243/gomoku-swap1-ai) (private) |
+| **Code** | [`asdf243/gomoku-swap1-ai`](https://github.com/asdf243/gomoku-swap1-ai) (private — access on request) |
 
 ---
 

@@ -12,7 +12,7 @@ Exchange student, National Tsing Hua University, August 2026 – January 2027
 
 ## About this repository
 
-A documentation-only portfolio. Each chapter gives the **complete content outline, technical path and layered architecture** of one project, at a level of detail intended for a reader who wants to judge the engineering rather than skim a summary. **No source code is included here.** Where a project's code exists and can be shared, its own private repository is linked from the chapter.
+A documentation-only portfolio. Each chapter gives the **complete content outline, technical path and layered architecture** of one project, at a level of detail intended for a reader who wants to judge the engineering rather than skim a summary. **No source code is included here.** The source repositories linked from each chapter are **private** — they hold team-owned or course-submitted code — and access can be granted on request.
 
 ---
 

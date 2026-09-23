@@ -9,7 +9,7 @@
 | **合作方** | 吉林大学虚拟现实梦工场实验室 × 长春市第六医院 |
 | **规模** | 13 人后端团队；五方协作 |
 | **结果** | 已投入医院实际生产使用 · 吉林大学双创训练计划**优秀结题** |
-| **文档** | [`asdf243/mental-health-digital-twin`](https://github.com/asdf243/mental-health-digital-twin)（私有，纯文档） |
+| **文档** | [`asdf243/mental-health-digital-twin`](https://github.com/asdf243/mental-health-digital-twin)（私有——可应要求开放；纯文档） |
 
 ---
 

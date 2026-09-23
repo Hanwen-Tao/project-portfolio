@@ -9,7 +9,7 @@
 | **背景** | 科大讯飞企业命题 **XH-202621** |
 | **团队** | 4 人 |
 | **个人贡献** | 48 次提交、391 个文件、新增约 6 万行 |
-| **代码** | [`asdf243/artifex-job-competency-graph`](https://github.com/asdf243/artifex-job-competency-graph)（私有） |
+| **代码** | [`asdf243/artifex-job-competency-graph`](https://github.com/asdf243/artifex-job-competency-graph)（私有——可应要求开放） |
 
 ---
 

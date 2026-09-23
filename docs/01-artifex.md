@@ -9,7 +9,7 @@
 | **Context** | iFLYTEK industry-sponsored competition topic **XH-202621** |
 | **Team** | 4 contributors |
 | **My contribution** | 48 commits, 391 files, ~60k lines added |
-| **Code** | [`asdf243/artifex-job-competency-graph`](https://github.com/asdf243/artifex-job-competency-graph) (private) |
+| **Code** | [`asdf243/artifex-job-competency-graph`](https://github.com/asdf243/artifex-job-competency-graph) (private — access on request) |
 
 ---
 
