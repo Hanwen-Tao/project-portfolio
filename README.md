@@ -2,9 +2,11 @@
 
 # Hanwen Tao — Project Portfolio
 
-B.Eng. Computer Science and Technology (expected July 2028), Jilin University · Minor in Finance
+B.Sc. Computer Science and Technology (expected July 2028), Jilin University · Minor in Finance
 
-Exchange student, National Tsing Hua University, August 2026 – January 2027
+Exchange student, National Tsing Hua University, August 2026 – January 2027 (with cross-university courses at NCKU and NCU)
+
+Currently writing a first-author paper on the reliability of LLM-based annotation (in preparation)
 
 📧 taohw0624@mails.jlu.edu.cn
 
@@ -20,11 +22,12 @@ A documentation-only portfolio. Each chapter gives the **complete content outlin
 
 | # | Project | Period | Role | Scale | Chapter |
 |---|---|---|---|---|---|
-| 1 | **ARTIFEX** — multi-source data-driven job competency graph system | 2026.06–09 | Team Lead & Core Developer (Algorithms & Backend) | 48 commits, 391 files, ~60k lines added; 4-person team | [→ 01](docs/01-artifex.md) |
+| 1 | **ARTIFEX** — multi-source data-driven job competency graph system | 2026.06–09 | Team Lead & Core Developer (Algorithms & Backend) | 48 commits, 391 files, ~60k lines added; 4-person team; **National Third Prize, "Challenge Cup"** | [→ 01](docs/01-artifex.md) |
 | 2 | **DNN Inference Optimization** — structured pruning for edge deployment | 2026.04–07 | Independent | Params and FLOPs −75%; top-1 95.70% → 91.84% | [→ 02](docs/02-dnn-inference-optimization.md) |
 | 3 | **Mental Health Digital Twin** — LLM-based multimodal clinical platform | 2025.05–11 | Backend Team Lead | 13-person backend group; deployed in hospital production | [→ 03](docs/03-mental-health-digital-twin.md) |
 | 4 | **Gomoku-Swap1 Game AI** — tournament engine on Botzone | 2026.03–05 | Team Lead | ~3.8k lines C++; 800 ms per move; top 5% of course ladder | [→ 04](docs/04-gomoku-swap1-ai.md) |
 | 5 | **Hospital Information System** — three-role C++ system | 2025.03–2026.05 | Team Lead | ~6.4k lines C++; graded A+ | [→ 05](docs/05-hospital-information-system.md) |
+| 6 | **Multimodal Lost-and-Found Retrieval** — image + text retrieval with a LoRA-fine-tuned encoder | 2026.09–present | Team Lead & Main Developer | 2-person team; photo-only R@1 0.731 → 0.943 on a held-out campus (CO3D-based benchmark) | [→ 06](docs/06-lost-item-retrieval.md) |
 
 ---
 
@@ -32,7 +35,7 @@ A documentation-only portfolio. Each chapter gives the **complete content outlin
 
 Three concerns recur across every project, and they are what I would want a supervisor to judge me on.
 
-**1 · Making claims measurable.** Every project ends with numbers produced by a harness I wrote, not by inspection: an 18-round iteration log with F1 at each round (ARTIFEX), a four-dimension accuracy/FLOPs/parameter/latency comparison (pruning), a 12-algorithm benchmark with an adversarial hard-case suite (matching), a pattern-classification regression check (Gomoku).
+**1 · Making claims measurable.** Every project ends with numbers produced by a harness I wrote, not by inspection: an 18-round iteration log with F1 at each round (ARTIFEX), a four-dimension accuracy/FLOPs/parameter/latency comparison (pruning), a 12-algorithm benchmark with an adversarial hard-case suite (matching), a pattern-classification regression check (Gomoku), and run outputs frozen with checksums so that every reported retrieval number can be recomputed (lost-and-found retrieval).
 
 **2 · Separating what is decided from what is computed.** The recurring architectural move is putting a bounded interface between a deterministic core and a probabilistic or external component — rule-based candidate analysis versus LLM generation in ARTIFEX, backend session state versus model services in the clinical platform, tactical layer versus search core in the game engine.
 
@@ -53,15 +56,16 @@ Three concerns recur across every project, and they are what I would want a supe
 | Area | Detail |
 |---|---|
 | **Programming** | Python, C/C++, Java, JavaScript, SQL, Verilog |
-| **ML / DL** | PyTorch, scikit-learn, NumPy/pandas; structured pruning, TF-IDF + linear models, cross-validation, bootstrap stability, hypothesis testing with multiple-comparison correction |
+| **ML / DL** | PyTorch, scikit-learn, NumPy/pandas, Hugging Face; LoRA fine-tuning, image–text retrieval (SigLIP 2, DINOv2, BGE-M3), structured pruning, TF-IDF + linear models, cross-validation, bootstrap stability, hypothesis testing with multiple-comparison correction |
 | **Backend & data** | FastAPI, SQLAlchemy/Alembic, PostgreSQL, Neo4j (Cypher), Qdrant, Redis, MinIO, LangGraph, OpenAPI contract-first design, pytest, Postman |
 | **Engineering** | Linux, Git, Docker, CI regression gating, code review, AI-assisted development |
-| **Coursework** | Data Structures, Algorithm Design & Analysis, Operating Systems, Computer Organization & Architecture, CPU Design, Digital Logic Circuits, Linux Practice, Probability & Statistics, Linear Algebra, Mathematical Modeling; *(NTHU, in progress)* Machine Learning, Natural Language Processing, Compilers, Computer Networks, Database Systems, Software Engineering |
+| **Coursework** | Data Structures, Algorithm Design & Analysis, Operating Systems, Computer Organization & Architecture, CPU Design, Digital Logic Circuits, Linux Practice, Probability & Statistics, Linear Algebra, Mathematical Modeling; *(exchange semester, in progress)* Parallel Programming, Machine Learning, Natural Language Processing, Compilers, Computer Networks, Database Systems, Software Engineering, Introduction to Artificial Intelligence (NCKU, cross-university) |
 
 ---
 
 ## Honors
 
+- **National Third Prize**, "Challenge Cup" competition, iFLYTEK industry-sponsored topic (ARTIFEX, Team Lead) — 2026
 - **Honorable Mention**, Mathematical Contest in Modeling (MCM), COMAP — 2026
 - **First Prize**, Jilin University Mathematical Contest in Modeling — 2026
 - **Third Prize**, Lanqiao Cup Programming Competition, Jilin provincial round (C/C++ Group A) — 2026
@@ -79,3 +83,4 @@ Three concerns recur across every project, and they are what I would want a supe
 | An interest in efficient ML | [DNN Inference Optimization](docs/02-dnn-inference-optimization.md) |
 | An interest in systems and teams | [Mental Health Digital Twin](docs/03-mental-health-digital-twin.md) |
 | An interest in search and algorithms | [Gomoku-Swap1](docs/04-gomoku-swap1-ai.md) |
+| An interest in multimodal retrieval | [Lost-and-Found Retrieval](docs/06-lost-item-retrieval.md) |
