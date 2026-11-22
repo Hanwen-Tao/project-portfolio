@@ -8,7 +8,7 @@
 | **角色** | 组长兼主要开发（2 人小组） |
 | **课程** | 成功大学「人工智慧导论」（在台湾清华交换期间跨校选修） |
 | **进度** | 期中与期末实验已完成；期末报告和视频 2026 年 11 月 26 日截止 |
-| **代码** | [`asdf243/Lost-Item`](https://github.com/asdf243/Lost-Item)（私有，可应要求开放） |
+| **代码** | [`Hanwen-Tao/Lost-Item`](https://github.com/Hanwen-Tao/Lost-Item)（私有，可应要求开放） |
 
 ---
 

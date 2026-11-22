@@ -8,7 +8,7 @@
 | **Role** | Team Lead & Main Developer (two-person team) |
 | **Course** | Introduction to Artificial Intelligence, National Cheng Kung University (cross-university enrollment during the NTHU exchange) |
 | **Status** | Mid-term and final experiments done; final report and video due 26 November 2026 |
-| **Code** | [`asdf243/Lost-Item`](https://github.com/asdf243/Lost-Item) (private — access on request) |
+| **Code** | [`Hanwen-Tao/Lost-Item`](https://github.com/Hanwen-Tao/Lost-Item) (private — access on request) |
 
 ---
 

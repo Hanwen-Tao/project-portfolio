@@ -8,7 +8,7 @@
 | **角色** | 独立完成 |
 | **项目** | 吉林大学边缘智能中心 开放性创新实验 |
 | **成绩** | A+ |
-| **代码** | [`asdf243/dnn-inference-optimization`](https://github.com/asdf243/dnn-inference-optimization)（私有——可应要求开放） |
+| **代码** | [`Hanwen-Tao/dnn-inference-optimization`](https://github.com/Hanwen-Tao/dnn-inference-optimization)（私有——可应要求开放） |
 
 ---
 

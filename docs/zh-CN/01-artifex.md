@@ -10,7 +10,7 @@
 | **获奖** | “挑战杯”竞赛 科大讯飞企业命题 全国三等奖 |
 | **团队** | 4 人 |
 | **个人贡献** | 48 次提交、391 个文件、新增约 6 万行 |
-| **代码** | [`asdf243/artifex-job-competency-graph`](https://github.com/asdf243/artifex-job-competency-graph)（私有——可应要求开放） |
+| **代码** | [`Hanwen-Tao/artifex-job-competency-graph`](https://github.com/Hanwen-Tao/artifex-job-competency-graph)（私有——可应要求开放） |
 
 ---
 

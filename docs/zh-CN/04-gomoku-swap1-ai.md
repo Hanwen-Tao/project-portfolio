@@ -9,7 +9,7 @@
 | **背景** | 吉林大学 数据结构与算法设计课程设计 |
 | **结果** | Bot 位列课程 Botzone 天梯**前 5%** |
 | **规模** | 提交版本约 3,800 行 C++ · 单步 800 毫秒 |
-| **代码** | [`asdf243/gomoku-swap1-ai`](https://github.com/asdf243/gomoku-swap1-ai)（私有——可应要求开放） |
+| **代码** | [`Hanwen-Tao/gomoku-swap1-ai`](https://github.com/Hanwen-Tao/gomoku-swap1-ai)（私有——可应要求开放） |
 
 ---
 

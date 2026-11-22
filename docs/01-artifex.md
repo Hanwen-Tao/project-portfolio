@@ -10,7 +10,7 @@
 | **Award** | National Third Prize, "Challenge Cup" competition (iFLYTEK industry-sponsored topic) |
 | **Team** | 4 contributors |
 | **My contribution** | 48 commits, 391 files, ~60k lines added |
-| **Code** | [`asdf243/artifex-job-competency-graph`](https://github.com/asdf243/artifex-job-competency-graph) (private — access on request) |
+| **Code** | [`Hanwen-Tao/artifex-job-competency-graph`](https://github.com/Hanwen-Tao/artifex-job-competency-graph) (private — access on request) |
 
 ---
 

@@ -9,7 +9,7 @@
 | **成绩** | A+ |
 | **背景** | 始于面向对象程序设计课程（2025），在程序设计基础课程设计中重构为三端系统（2026） |
 | **规模** | 约 6,400 行 C++ · 13 个业务结构体 · 9 个数据集合 · 不使用 STL 容器 |
-| **代码** | [`asdf243/hospital-information-system`](https://github.com/asdf243/hospital-information-system)（私有——可应要求开放） |
+| **代码** | [`Hanwen-Tao/hospital-information-system`](https://github.com/Hanwen-Tao/hospital-information-system)（私有——可应要求开放） |
 
 ---
 
